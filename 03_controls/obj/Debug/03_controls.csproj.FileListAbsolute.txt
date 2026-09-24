@@ -1,0 +1,15 @@
+C:\Arnau Puig\insti\DAM2\04_desenvolupament-interficies\03_controls\03_controls\03_controls\bin\Debug\03_controls.exe.config
+C:\Arnau Puig\insti\DAM2\04_desenvolupament-interficies\03_controls\03_controls\03_controls\bin\Debug\03_controls.exe
+C:\Arnau Puig\insti\DAM2\04_desenvolupament-interficies\03_controls\03_controls\03_controls\bin\Debug\03_controls.pdb
+C:\Arnau Puig\insti\DAM2\04_desenvolupament-interficies\03_controls\03_controls\03_controls\obj\Debug\03_controls.csproj.AssemblyReference.cache
+C:\Arnau Puig\insti\DAM2\04_desenvolupament-interficies\03_controls\03_controls\03_controls\obj\Debug\MainWindow.g.cs
+C:\Arnau Puig\insti\DAM2\04_desenvolupament-interficies\03_controls\03_controls\03_controls\obj\Debug\App.g.cs
+C:\Arnau Puig\insti\DAM2\04_desenvolupament-interficies\03_controls\03_controls\03_controls\obj\Debug\03_controls_MarkupCompile.cache
+C:\Arnau Puig\insti\DAM2\04_desenvolupament-interficies\03_controls\03_controls\03_controls\obj\Debug\03_controls_MarkupCompile.lref
+C:\Arnau Puig\insti\DAM2\04_desenvolupament-interficies\03_controls\03_controls\03_controls\obj\Debug\MainWindow.baml
+C:\Arnau Puig\insti\DAM2\04_desenvolupament-interficies\03_controls\03_controls\03_controls\obj\Debug\03_controls.g.resources
+C:\Arnau Puig\insti\DAM2\04_desenvolupament-interficies\03_controls\03_controls\03_controls\obj\Debug\_03_controls.Properties.Resources.resources
+C:\Arnau Puig\insti\DAM2\04_desenvolupament-interficies\03_controls\03_controls\03_controls\obj\Debug\03_controls.csproj.GenerateResource.cache
+C:\Arnau Puig\insti\DAM2\04_desenvolupament-interficies\03_controls\03_controls\03_controls\obj\Debug\03_controls.csproj.CoreCompileInputs.cache
+C:\Arnau Puig\insti\DAM2\04_desenvolupament-interficies\03_controls\03_controls\03_controls\obj\Debug\03_controls.exe
+C:\Arnau Puig\insti\DAM2\04_desenvolupament-interficies\03_controls\03_controls\03_controls\obj\Debug\03_controls.pdb

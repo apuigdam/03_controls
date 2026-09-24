@@ -6,5 +6,21 @@
         xmlns:local="clr-namespace:_03_controls"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid/>
+    <Grid>
+        <!-- <Button Content=" Pitxa'm" Width="150" Height="50" FontSize="30"></Button> -->
+        <!-- <Button>
+            <Button.Width>150</Button.Width>
+            <Button.Height>50</Button.Height>
+            <Button.FontSize>15</Button.FontSize>
+            <Button.Content>
+                <WrapPanel>
+                    <TextBlock Foreground="red">Hola</TextBlock>
+                    <TextBlock Foreground="Yellow">Adeu</TextBlock>
+                    <TextBlock Foreground="Green">Andreu</TextBlock>
+                </WrapPanel>
+            </Button.Content>
+        </Button> -->
+        
+        
+    </Grid>
 </Window>
