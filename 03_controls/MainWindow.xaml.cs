@@ -31,17 +31,17 @@ namespace _03_controls
 
             TextBlock txt1 = new TextBlock();
             txt1.Text = "Hola";
-            txt1.Foreground = Brushes.Red;
+            txt1.Foreground = Brushes.Purple;
             elMeuPanel.Children.Add(txt1);
 
             TextBlock txt2 = new TextBlock();
             txt2.Text = "Adeu";
-            txt2.Foreground = Brushes.Yellow;
+            txt2.Foreground = Brushes.Pink;
             elMeuPanel.Children.Add(txt2);
 
             TextBlock txt3 = new TextBlock();
             txt3.Text = "Andreu";
-            txt3.Foreground = Brushes.Green;
+            txt3.Foreground = Brushes.Beige;
             elMeuPanel.Children.Add(txt3);
 
             btn.Width = 150;
